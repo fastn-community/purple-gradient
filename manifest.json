@@ -2,13 +2,8 @@
   "files": {
     "FASTN.ftd": {
       "name": "FASTN.ftd",
-      "checksum": "151A5DC26964F13BC1064A06CB05EF7E2BCEA82F355DE6A8960E79E65755AAA4",
-      "size": 643
-    },
-    "FASTN/ds.ftd": {
-      "name": "FASTN/ds.ftd",
-      "checksum": "861ABCAFE113BEB19793CE2C6BBB1354C27981899F87BF5D2C27B74E589B34B0",
-      "size": 2360
+      "checksum": "EDABD41EE5F1CDD10343280DF2464E8ED6F29D31A95FF16389DFA524A0DC0814",
+      "size": 537
     },
     "README.md": {
       "name": "README.md",
@@ -20,15 +15,30 @@
       "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
       "size": 21
     },
-    "assets/ipsum-logo-dark.svg": {
-      "name": "assets/ipsum-logo-dark.svg",
-      "checksum": "8290B3397C465FE1BB40B7CA280C976DF7DA3DABFC655B429805ABF33964FB5B",
-      "size": 16202
+    "assets/avatar.svg": {
+      "name": "assets/avatar.svg",
+      "checksum": "DF8F8DB0674EEF4FFAF5D95B49CE1A55AB01785144B382D7544E02D338D451FA",
+      "size": 836337
     },
-    "assets/ipsum-logo.svg": {
-      "name": "assets/ipsum-logo.svg",
-      "checksum": "A227CF22E798ACFB2D01B6352FC22A28047444F028AF05440C6CE6F9499C0EDF",
-      "size": 15494
+    "assets/background.jpg": {
+      "name": "assets/background.jpg",
+      "checksum": "E32B1A3213FC0DEB73029BAC102C578885D470DCE582346D11D061E4B9E27F51",
+      "size": 2048564
+    },
+    "assets/linktree-dark.png": {
+      "name": "assets/linktree-dark.png",
+      "checksum": "68D3BB049672BB7987063ED3950229E26AB4FD8172C80B6606AB47E095972F19",
+      "size": 306224
+    },
+    "assets/linktree.png": {
+      "name": "assets/linktree.png",
+      "checksum": "C80E84BE71263B79EFFBEE80337A6BDC5250AB0E9B6CCE306C6ECEE7884AEA45",
+      "size": 308136
+    },
+    "ds.ftd": {
+      "name": "ds.ftd",
+      "checksum": "F497A5439E78E56263D34A475D8F2E34D04B1912AB955A14C092BB5BB92BC166",
+      "size": 901
     },
     "favicon.ico": {
       "name": "favicon.ico",
@@ -37,13 +47,18 @@
     },
     "index.ftd": {
       "name": "index.ftd",
-      "checksum": "32532606DDF89B56B42BA173EEAC7F7E9006DEEC07ABF10F6ABE246DC0EC1482",
-      "size": 1190
+      "checksum": "DFA9826C4D2DEB994A8A8AF11FC5F080867B2BBC2A9392F97CF6C1D96EE6A2A8",
+      "size": 1103
     },
-    "sidebar.ftd": {
-      "name": "sidebar.ftd",
-      "checksum": "98EA5E5D5540AA8CCFA6C4ABEE6C2D476F6E1310B6B7E8978E81F62368EFA035",
-      "size": 1281
+    "lib.ftd": {
+      "name": "lib.ftd",
+      "checksum": "593C1B29125FCABFA38DCD4B809D918D7C1B99263E8E80548BDC760A88D7A28D",
+      "size": 3761
+    },
+    "themecolors.ftd": {
+      "name": "themecolors.ftd",
+      "checksum": "A68791E52B5743AC3A07B87F27D7E2257ACC24C8E88A38404FF9C70B42E49EB6",
+      "size": 6484
     },
     "vercel.json": {
       "name": "vercel.json",
@@ -52,5 +67,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/fastn-community/purple-gradient/zip/refs/heads/main",
-  "checksum": "15F977E25FFE9B663ACFD690A40FD8995CCADBE1659FB4BBAF59C2917D740CD9"
+  "checksum": "22959BD9B131CF343663E8AF424BD8A9E5994934FC0A266C0F7D9C110FD9B0A1"
 }
